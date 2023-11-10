@@ -1,6 +1,7 @@
 # Data Science & Machine Learning Portfolio
 # Introduction
 ## Denis Perepelyuk
+![Selfie](/docs/assets/selfie.jpg)
 ### Contact links:
   - [GitHub](https://github.com/DinnyCode)
   - [LinkedIn](https://www.linkedin.com/in/denis-perepelyuk/)
